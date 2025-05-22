@@ -23,7 +23,7 @@
 // Enabled repeater feature for this node
 #define MY_REPEATER_FEATURE
 #elif defined(SERRE)
-#define MY_NODE_ID 4
+#define MY_NODE_ID 6
 #define NO_U
 #define REPORT_BATTERY
 #elif defined(ENTREE)
